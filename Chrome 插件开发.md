@@ -110,3 +110,12 @@ Manifest File Format:
   "web_accessible_resources": [...]
 }
 ```
+
+
+调试：
+
+```
+chrome://extensions/
+
+选择--->加载已解压的扩展程序或者打包扩展程序
+```
